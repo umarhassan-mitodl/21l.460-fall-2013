@@ -1,0 +1,32 @@
+leftnav:
+- identifier: 0578766f-5160-4bd5-4fb4-5260368b0717
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: c28947bb-843d-3bd0-46ea-771e5a4169e8
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 20
+- identifier: a05273e3-3660-924b-a1d8-bbe62e341f4d
+  name: Setting the Stage for Arthurian Literature with a Key Question
+  pageRef: /pages/instructor-insights/setting-the-stage-for-arthurian-literature-with-a-key-question
+  parent: c28947bb-843d-3bd0-46ea-771e5a4169e8
+  weight: 30
+- identifier: 8aeee868-22f6-55e3-6374-ba886fd0bf95
+  name: Encouraging Participation During Discussions
+  pageRef: /pages/instructor-insights/encouraging-participation-during-discussions
+  parent: c28947bb-843d-3bd0-46ea-771e5a4169e8
+  weight: 40
+- identifier: 22cefd70-1373-dae7-41ff-06e8b609dd89
+  name: 'Final Projects and Posters: Alternative Assessment Strategies'
+  pageRef: /pages/instructor-insights/final-projects-and-posters-alternative-assessment-strategies
+  parent: c28947bb-843d-3bd0-46ea-771e5a4169e8
+  weight: 50
+- identifier: df4d2438-9dc4-7b4c-26d9-1eed4aa4ff98
+  name: Readings
+  pageRef: /pages/readings
+  weight: 60
+- identifier: 41940b51-b1ee-1b4d-4ab6-f59b79884979
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 70
